@@ -1,0 +1,123 @@
+#div1{
+        background-color:#7f48b3;
+        width: 20%;
+        height: 15%;
+        border-radius: 5%;
+        float: left;
+        position: absolute;
+        top: 30px;
+        left: 532px;
+        margin: 1%;
+}
+#div2{
+    background-color:#d24081;
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 170px;
+    left: 297px;
+    margin: 1%;
+}
+#div3{
+    background-color:#d24081;
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 170px;
+    left: 760px;
+    margin: 1%;
+}
+
+#div4{
+    background-color:#EF798B;
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 290px;
+    left: 195px;
+    margin: 1%;
+}
+#div5{
+    background-color:#EF798B;
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 290px;
+    left: 537px;
+    margin: 1%;
+}
+#div6{
+    background-color:#EF798B;
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 290px;
+    left: 860px;
+    margin: 1%;
+}
+#div7{
+    background-color:rgb(188, 146, 228);
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 30px;
+    left: 532px;
+    margin: 1%;
+}
+#div8{
+    background-color:rgb(188, 146, 228);
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 30px;
+    left: 532px;
+    margin: 1%;
+}
+#div9{
+    background-color:rgb(188, 146, 228);
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 30px;
+    left: 532px;
+    margin: 1%;
+}
+#div10{
+    background-color:rgb(188, 146, 228);
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    float: left;
+    position: absolute;
+    top: 30px;
+    left: 532px;
+    margin: 1%;
+}
+.circulo{
+    background-color:rgb(0, 0, 0);
+    width: 80px;
+    height: 80px;
+    border-radius: 55%;
+    float: left;
+    position: absolute;
+    top: 6px;
+    left: 7px;
+    margin: 1%;
+}
+
